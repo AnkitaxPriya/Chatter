@@ -5,7 +5,7 @@ Chatter is a simple chat application
 For getting started with React.js
 
 ## About the project
-This is a simple chat application with the following basic features: 
+Chatter is a simple real-time chat application with the following basic features: 
 - Login page
 - Multi-user chatting platform 
 - Send pictures
