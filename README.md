@@ -4,8 +4,7 @@
 Chatter is a simple chat application which you can use to chat with your friends without being concerned about someone tracking your texts! 😉
 
 ## Purpose behind this Project 
-- For getting started with React.js
-- 
+Learn React.js by doing
 
 ## Basic Features
 Chatter is a simple real-time chat application with the following basic features: 
