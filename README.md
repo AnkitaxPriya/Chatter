@@ -21,6 +21,12 @@ Chatter is a simple real-time chat application with the following basic features
 - Chat Engine 
 - Netlify
 
+## Demo
+![Screenshot 2021-07-14 005454](https://user-images.githubusercontent.com/44089458/125512838-773bab19-36f1-48bf-8bc0-08d80db16ced.jpg)
+
+A simple demonstration of Chatter where Monica and Phoebe are having some chat. 
+
+
 ## Resources 
 1. [create-react-app](https://github.com/facebook/create-react-app)
 2. [Create React App Documentation](https://create-react-app.dev/docs/getting-started/)
